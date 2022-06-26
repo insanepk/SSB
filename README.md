@@ -28,7 +28,7 @@ pip install rich
 
 pip install bs4
 
-rm -rf Fuck_SSB
+rm -rf SSB
 
 git clone https://github.com/insanepk/SSB.git
 
