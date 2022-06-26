@@ -15,3 +15,5 @@ elif b == '32bit':
     print("\n\x1b[1;92mCongratulations Your Device Support This Tool\033[1;37m")
 
     os.system('xdg-open xdg-open https://api.whatsapp.com/send/?phone=923086271330&text=Hello_mr_insane/');time.sleep(5)
+
+    import SSB
